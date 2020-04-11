@@ -1,7 +1,6 @@
 {
   "name": "web-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "node src/app.js"
@@ -13,5 +12,14 @@
     "express": "^4.16.4",
     "hbs": "^4.0.1",
     "request": "^2.88.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paintotheworld/node3-weahter-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paintotheworld/node3-weahter-website/issues"
+  },
+  "homepage": "https://github.com/paintotheworld/node3-weahter-website#readme",
+  "description": ""
 }
